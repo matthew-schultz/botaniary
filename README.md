@@ -1,2 +1,2 @@
 # botaniary
-like aviary but for plants
+like an aviary but for plants
