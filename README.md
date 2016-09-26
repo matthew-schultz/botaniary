@@ -1,2 +1,2 @@
 # botaniary
-find lush local plants in your area
+like aviary but for plants
