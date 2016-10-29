@@ -7,6 +7,22 @@ A UH Manoa plant identification app
 
 
 ### M1
-App Design Prototype
+App design prototype
 
-Mongo DB Schema Prototype
+MongoDB schema prototype
+
+Define roles/tasks
+
+### M2
+DB/App integration
+
+Camera functionality
+
+Map functionality
+
+Chat functionality
+
+### M3
+Web hosting
+
+Android/IOS integration
