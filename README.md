@@ -8,4 +8,5 @@ A UH Manoa plant identification app
 
 ### M1
 App Design Prototype
+
 Mongo DB Schema Prototype
