@@ -28,3 +28,7 @@ Chat functionality
 Web hosting
 
 Android/IOS integration
+
+Game Functionality
+
+Beta Testing
