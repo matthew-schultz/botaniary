@@ -1,2 +1,11 @@
 # botaniary
-like an aviary but for plants
+
+
+A UH Manoa plant identification app
+
+## Milestones
+
+
+### M1
+App Design Prototype
+Mongo DB Schema Prototype
