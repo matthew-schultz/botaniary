@@ -11,6 +11,8 @@ App design prototype
 
 MongoDB schema prototype
 
+UH Manoa Landscaping plant map data integration
+
 Define roles/tasks
 
 ### M2
